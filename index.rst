@@ -10,6 +10,9 @@ Welcome to DocTest's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   QGIS Developers Guide <docs/developers_guide/index>
+   A gentle introduction in GIS <docs/gentle_gis_introduction/index>
+
 
 
 Indices and tables
